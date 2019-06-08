@@ -1,2 +1,2 @@
-# Material del curso de JavaScript Avanzado
+# Material del master de JavaScript para profesionales
 Más información en https://redradix.com/cursos/javascript-avanzado/
